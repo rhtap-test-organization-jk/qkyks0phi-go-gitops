@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qkyks0phi-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/qkyks0phi-go-gitops
